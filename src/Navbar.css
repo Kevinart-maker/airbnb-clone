@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.nav-container{
+    height: 50px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+}
+.nav-container img{
+    max-width: 100%;
+}

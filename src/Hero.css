@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&family=Epilogue&family=Lexend+Deca&family=Montserrat&family=Outfit&family=Poppins&family=Quicksand&family=Roboto&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-container{
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+}
+.hero-container img{
+    display: flex;
+    max-width: 100%;
+    align-self: center;
+}
+.hero-container .text{
+    padding-left: 50px;
+}
+.hero-container h1{
+    font-size: 40px;
+}
